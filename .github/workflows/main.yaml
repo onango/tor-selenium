@@ -31,4 +31,4 @@ jobs:
 
     - name: Run Selenium with Tor
       run: |
-        python3 your_selenium_script.py
+        python3 main.py
